@@ -51,8 +51,8 @@ To build a machine learning model that predicts house prices based on property f
 
 | Metric | Value |
 |--------|-------|
-| MAE    | _<Your result here>_ |
-| RMSE   | _<Your result here>_ |
+| MAE    | _129233.30_ |
+| RMSE   | _214212.15_ |
 
 *(Replace with actual values from your notebook)*
 
