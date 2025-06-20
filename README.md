@@ -74,19 +74,4 @@ To build a machine learning model that predicts house prices based on property f
 - Perform feature engineering on date or area trends.
 - Apply grid search for hyperparameter tuning.
 
----
 
-## ✅ Internship Submission Checklist
-
-- [x] Problem statement and goal
-- [x] Data loading and preprocessing
-- [x] Visualization and EDA
-- [x] Model training and evaluation
-- [x] Clean and commented code
-- [x] This README file
-
----
-
-> **Submitted to:** DevelopersHub Corporation – AI/ML Internship  
-> **Author:** _<Your Name Here>_  
-> **Due Date:** June 26, 2025
